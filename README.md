@@ -17,6 +17,6 @@ FuncoesMenu.c: são os menus que permitem que o usuário interaja com o programa
 FuncoesUsuarios.c: mesma coisa que o FuncoesLivros.c, porém com os dados de usários.
 Main.c: a main que chama os menus.
 
-Eu tentei comentar os códigos para que eles ficassem de fácil compreensão, porém quaisquer dúvidas ou erros encontrados, pode me enviar um e-mail em: luizhenrique.vicari@gmail.com que eventualmente devo responder.
+Eu tentei comentar os códigos para que eles ficassem de fácil compreensão, porém quaisquer dúvidas ou erros encontrados, pode me enviar um e-mail em: ikvicari@gmail.com que eventualmente devo responder.
 
 Obs: nesse trabalho tirei 75 pontos de 100, pois o programa foi testado em um computador usando Linux, então perdi pontos pois não rodou nesse sistema, porém nos meus testes usando Windows 10, ele rodou tranquilamente.
