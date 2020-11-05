@@ -7,7 +7,7 @@ O objetivo do trabalho era criar uma espécie de programa que permitisse que um 
 
 Quem quiser, pode se sentir livre para se inspirar nas funções aqui utilizadas para criar seus próprios projetos, porém aconselho a não fazer um simples copiar e colar, mas entender a lógica por trás dos exercícios.
 
-Sobre cada página do aplicativo:
+# Sobre cada página do aplicativo:
 
 Biblioteca.h: é o cabeçalho, lá constam todas as funções para poder criar elas na ordem que eu quisesse, separadas por suas devidas utilizações no código
 FuncoesArquivos.c: são as funções para ler e escrever os dados do programa na memória do computador.
