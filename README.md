@@ -11,10 +11,15 @@ Quem quiser, pode se sentir livre para se inspirar nas funções aqui utilizadas
 
 Biblioteca.h: é o cabeçalho, lá constam todas as funções para poder criar elas na ordem que eu quisesse, separadas por suas devidas utilizações no código
 FuncoesArquivos.c: são as funções para ler e escrever os dados do programa na memória do computador.
+
 FuncoesListaEspera.c: são as funções que manipulam a lista de espera para cada livro.
+
 FuncoesLivros.c: criam, ordenam e permitem a visualização dos dados dos livros.
+
 FuncoesMenu.c: são os menus que permitem que o usuário interaja com o programa.
+
 FuncoesUsuarios.c: mesma coisa que o FuncoesLivros.c, porém com os dados de usários.
+
 Main.c: a main que chama os menus.
 
 Eu tentei comentar os códigos para que eles ficassem de fácil compreensão, porém quaisquer dúvidas ou erros encontrados, pode me enviar um e-mail em: ikvicari@gmail.com que eventualmente devo responder.
